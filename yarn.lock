@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+"@atleta-chain/lib@^4.0.1-alpha":
+  version "4.0.1-alpha"
+  resolved "https://registry.yarnpkg.com/@atleta-chain/lib/-/lib-4.0.1-alpha.tgz#5fc80bb4486ee13ce1123fa08bbe0fc1243e65af"
+  integrity sha512-lKA/UEf7KwHmRZItS4WzJ4nLvDNYklMlJ6pU0rT0Lxhku+Upxk0mbFTnK9OIe8YCpUFjVj1O4Ro48/nRuP7nXg==
+
+"@atleta-chain/v2-core@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@atleta-chain/v2-core/-/v2-core-1.0.1.tgz#ee72c9725516f0c1f00422a88922d1f23cc4983d"
+  integrity sha512-bGn2Dd9fUJscyx4CiL66y93SaFYVaRlbpa9f36JUmfnz9Koi4RnEPSj9yYWJdyQgYxdw8KxVCqzhzy7fTUjwlQ==
+
 "@ethereum-waffle/chai@^2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@ethereum-waffle/chai/-/chai-2.5.1.tgz#8bdc055952fc80ff78132571396a2771a36d97ae"
@@ -326,16 +336,6 @@
   integrity sha512-Da66lEIFeIz9ltsdMZcpQvmrmmoqrfju8pm1BH8WbYjZSwUgCwXLb9C+9XYogwBITnbsSaMdVPb2ekf7TV+03w==
   dependencies:
     "@types/node" "*"
-
-"@uniswap/lib@4.0.1-alpha":
-  version "4.0.1-alpha"
-  resolved "https://registry.yarnpkg.com/@uniswap/lib/-/lib-4.0.1-alpha.tgz#2881008e55f075344675b3bca93f020b028fbd02"
-  integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
-
-"@uniswap/v2-core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.0.tgz#e0fab91a7d53e8cafb5326ae4ca18351116b0844"
-  integrity sha512-BJiXrBGnN8mti7saW49MXwxDBRFiWemGetE58q8zgfnPPzQKq55ADltEILqOt6VFZ22kVeVKbF8gVd8aY3l7pA==
 
 "@yarnpkg/lockfile@^1.1.0":
   version "1.1.0"
